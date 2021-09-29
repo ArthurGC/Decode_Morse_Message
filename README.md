@@ -20,7 +20,7 @@ Sebastián Muñoz
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/smunozmo/Decode_Morse_Message/issues).
+Feel free to check the [issues page](https://github.com/ArthurGC/Decode_Morse_Message/issues).
 
 ## 👋 Acknowledgements
 
